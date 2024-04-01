@@ -6,7 +6,7 @@
   "content_scripts": [
     {
       "js": ["scripts/content.js"],
-      "matches": "https://hidive.com/*"
+      "matches": ["https://hidive.com/*"]
     }
   ]
 }
