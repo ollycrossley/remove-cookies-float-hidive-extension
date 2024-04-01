@@ -10,7 +10,8 @@
   "content_scripts": [
     {
       "js": ["scripts/content.js"],
-      "matches": ["https://www.hidive.com/*"]
+      "matches": ["https://www.hidive.com/*"],
+      "run_at": "document_idle"
     }
   ]
 }
