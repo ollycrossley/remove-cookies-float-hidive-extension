@@ -1,1 +1,4 @@
 .idea
+*.crx
+*.pem
+*.zip
