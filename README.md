@@ -9,6 +9,11 @@
 When loading up HIDIVE, a small popup shows up for the cookies, which is usually fine, but **doesn't disappear when the video
 is playing!**
 
+**Reports of the issue:**
+- [How do I get rid of this annoying shield? - Reddit](https://www.reddit.com/r/Hidive/comments/1bfu77w/how_do_i_get_rid_of_this_annoying_shield_in_the/?sort=new)
+- [Is there a way to hide the Up Next and Cookies button? - Reddit](https://www.reddit.com/r/Hidive/comments/1b8xhg4/is_there_a_way_to_hide_the_up_next_and_cookies/)
+- [How do I get rid of this Cookie Settings shield thing in corner? - Reddit](https://www.reddit.com/r/Hidive/comments/1bs1y68/how_do_i_get_rid_of_this_cookie_settings_shield/)
+
 To fix this, I have created a Chrome extension to remove the pop-up when a video is playing.
 
 This extension works on **any Chromium browser** so feel free to use it on other chromium supported browers!
