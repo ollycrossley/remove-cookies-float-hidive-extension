@@ -3,6 +3,10 @@
   "name": "HIDIVE Cookies Remover",
   "description": "Removes floating cookies icon that constantly covers HIDIVE webpages",
   "version": "1.0",
+  "icons": {
+    "48": "images/icon-48.png",
+    "128": "images/icon-128.png"
+  },
   "content_scripts": [
     {
       "js": ["scripts/content.js"],
