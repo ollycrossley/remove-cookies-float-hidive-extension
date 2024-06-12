@@ -18,7 +18,7 @@ To fix this, I have created a Chrome extension to remove the pop-up when a video
 
 This extension works on **any Chromium browser** so feel free to use it on other chromium supported browers!
 
-<img alt="nah-id-win-meme.jpg" height="307" src="./src/nah-id-win-meme.jpg" width="250"/>
+[//]: # (COMMENTED OUT: <img alt="nah-id-win-meme.jpg" height="307" src="./src/nah-id-win-meme.jpg" width="250"/>)
 
 ## Local Installation
 
